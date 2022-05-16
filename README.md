@@ -2,7 +2,7 @@
 - 👀 I’m interested in rock music. I'm learning code to provide stuff for that purpose.
 - 🌱 I’m currently learning JS
 - 📫 Drop me an email: x@aliguler.works
-- 📫 Visit my an humble website: https://aliguler.works
+- 📫 Visit my website: https://aliguler.works
 - 📫 Follow on Instagram: @aligulerworks
 
 
