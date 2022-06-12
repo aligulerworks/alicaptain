@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alicaptain
-- 👀 I’m interested in rock music. I'm learning code to provide stuff for that purpose.
-- 🌱 I’m currently learning JS
+- 👀 Interested in rock music. Learning code to provide stuff for that purpose in future.
+- 🌱 Currently improving my JS skills
 - 📫 Drop me an email: x@aliguler.works
 - 📫 Visit my website: https://aliguler.works
 - 📫 Follow on Instagram: @aligulerworks
