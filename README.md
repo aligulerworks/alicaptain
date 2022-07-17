@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alicaptain
 - 👀 Interested in rock music. Learning code to provide stuff for that purpose in future.
 - 🌱 Currently improving my JS skills
-- 📫 Drop me an email: x@aliguler.works
+- 📫 Drop me an email: aligulerworks@gmail.com
 - 📫 Visit my website: https://aliguler.works
 - 📫 Follow on Instagram: @aligulerworks
 
