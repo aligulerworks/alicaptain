@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @alicaptain
-- 👀 Interested in rock music. Learning code to provide stuff for that purpose in future.
 - 🌱 Currently improving my JS skills
 - 📫 Drop me an email: aligulerworks@gmail.com
 - 📫 Visit my website: https://alicaptain.github.io/ADV/
-- 📫 Follow on Instagram: @aligulerworks
+- 📫 Follow on Instagram: @ali.del.vento
+- 👀 Interested in front-end design, simple and useful interfaces.
+
 
 
 <!---
