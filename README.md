@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alicaptain
-- 🌱 Currently improving my JS skills
+- 🌱 Currently creating a website with ReactJS.
 - 📫 Drop me an email: aligulerworks@gmail.com
 - 📫 Visit my website: https://alicaptain.github.io/ADV/
 - 📫 Follow on Instagram: @ali.del.vento
-- 👀 Interested in front-end design, simple and useful interfaces.
+- 👀 Interested in front-end, UI design, javascript, CSS, Web Development, Identity Creation and Healing,...
 
 
 
